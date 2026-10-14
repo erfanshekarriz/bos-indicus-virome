@@ -1,0 +1,71 @@
+"","from","to","Colour","Weight"
+"1","k141_107008_SRR25030094","k141_107008_SRR25030094","Virus-Virus",1
+"2","k141_107365_SRR25030030","k141_107365_SRR25030030","Virus-Virus",1
+"3","k141_107973_SRR25030054","k141_107973_SRR25030054","Virus-Virus",1
+"4","k141_107973_SRR25030054","k141_236356_SRR25030126","Virus-Virus",0.797153846153846
+"5","k141_111301_SRR25030069","k141_111301_SRR25030069","Virus-Virus",1
+"6","k141_114947_SRR25030066","k141_114947_SRR25030066","Virus-Virus",1
+"7","k141_128020_SRR25030068","k141_128020_SRR25030068","Virus-Virus",1
+"8","k141_134369_SRR25030051","k141_134369_SRR25030051","Virus-Virus",1
+"9","k141_138018_SRR25030051","k141_138018_SRR25030051","Virus-Virus",1
+"10","k141_14196_SRR25030089","k141_14196_SRR25030089","Virus-Virus",1
+"11","k141_15282_SRR25030076","k141_15282_SRR25030076","Virus-Virus",1
+"12","k141_165177_SRR25030126","k141_165177_SRR25030126","Virus-Virus",1
+"13","k141_196798_SRR25030078","k141_196798_SRR25030078","Virus-Virus",1
+"14","k141_19816_SRR25030042","k141_19816_SRR25030042","Virus-Virus",1
+"15","k141_206140_SRR25030029","k141_206140_SRR25030029","Virus-Virus",1
+"16","k141_211111_SRR25030073","k141_211111_SRR25030073","Virus-Virus",1
+"17","k141_211111_SRR25030073","k141_234559_SRR25030035","Virus-Virus",0.689482758620689
+"18","k141_211111_SRR25030073","k141_234559_SRR25030035","Virus-Virus",0.689482758620689
+"19","k141_234559_SRR25030035","k141_234559_SRR25030035","Virus-Virus",1
+"20","k141_107973_SRR25030054","k141_236356_SRR25030126","Virus-Virus",0.797153846153846
+"21","k141_236356_SRR25030126","k141_236356_SRR25030126","Virus-Virus",1
+"22","k141_262070_SRR25030031","k141_262070_SRR25030031","Virus-Virus",1
+"23","k141_262501_SRR25030040","k141_262501_SRR25030040","Virus-Virus",1
+"24","k141_268259_SRR25030126","k141_268259_SRR25030126","Virus-Virus",1
+"25","k141_271946_SRR25030086","k141_271946_SRR25030086","Virus-Virus",1
+"26","k141_321400_SRR25030125","k141_321400_SRR25030125","Virus-Virus",0.99236641221374
+"27","k141_32847_SRR25030126","k141_32847_SRR25030126","Virus-Virus",1
+"28","k141_47177_SRR25030037","k141_47177_SRR25030037","Virus-Virus",1
+"29","k141_51870_SRR25030127","k141_51870_SRR25030127","Virus-Virus",0.966666666666666
+"30","k141_58204_SRR25030064","k141_58204_SRR25030064","Virus-Virus",1
+"31","k141_60590_SRR25030063","k141_60590_SRR25030063","Virus-Virus",1
+"32","k141_63883_SRR25030046","k141_63883_SRR25030046","Virus-Virus",1
+"33","k141_6479_SRR25030098","k141_6479_SRR25030098","Virus-Virus",0.9875
+"34","k141_678_SRR25030078","k141_678_SRR25030078","Virus-Virus",1
+"35","k141_70640_SRR25030048","k141_70640_SRR25030048","Virus-Virus",0.9375
+"36","k141_73657_SRR25030066","k141_73657_SRR25030066","Virus-Virus",1
+"37","k141_88126_SRR25030035","k141_88126_SRR25030035","Virus-Virus",1
+"38","k141_107008_SRR25030094","species:Flavonifractor plautii","Host-Virus",1
+"39","k141_107365_SRR25030030","species:[Ruminococcus] gnavus","Host-Virus",1
+"40","k141_107973_SRR25030054","species:[Ruminococcus] gnavus","Host-Virus",1
+"41","k141_111301_SRR25030069","species:Lachnospira pectinoschiza","Host-Virus",1
+"42","k141_114947_SRR25030066","species:Lachnospira pectinoschiza","Host-Virus",1
+"43","k141_128020_SRR25030068","species:Lachnospira pectinoschiza","Host-Virus",1
+"44","k141_134369_SRR25030051","species:[Ruminococcus] gnavus","Host-Virus",1
+"45","k141_138018_SRR25030051","species:[Ruminococcus] gnavus","Host-Virus",1
+"46","k141_14196_SRR25030089","species:Parabacteroides distasonis","Host-Virus",1
+"47","k141_15282_SRR25030076","species:Massilioclostridium coli","Host-Virus",1
+"48","k141_165177_SRR25030126","species:[Ruminococcus] gnavus","Host-Virus",1
+"49","k141_196798_SRR25030078","species:[Ruminococcus] gnavus","Host-Virus",1
+"50","k141_19816_SRR25030042","species:[Ruminococcus] gnavus","Host-Virus",1
+"51","k141_206140_SRR25030029","species:Lachnospira pectinoschiza","Host-Virus",1
+"52","k141_211111_SRR25030073","species:Lawsonibacter asaccharolyticus","Host-Virus",1
+"53","k141_234559_SRR25030035","species:Lawsonibacter asaccharolyticus","Host-Virus",1
+"54","k141_236356_SRR25030126","species:[Ruminococcus] gnavus","Host-Virus",1
+"55","k141_262070_SRR25030031","species:[Ruminococcus] gnavus","Host-Virus",1
+"56","k141_262501_SRR25030040","species:Flavonifractor plautii","Host-Virus",1
+"57","k141_268259_SRR25030126","species:[Ruminococcus] gnavus","Host-Virus",1
+"58","k141_271946_SRR25030086","species:[Ruminococcus] gnavus","Host-Virus",1
+"59","k141_321400_SRR25030125","species:Parabacteroides distasonis","Host-Virus",1
+"60","k141_32847_SRR25030126","species:Flavonifractor plautii","Host-Virus",1
+"61","k141_47177_SRR25030037","species:[Ruminococcus] gnavus","Host-Virus",1
+"62","k141_51870_SRR25030127","species:[Ruminococcus] gnavus","Host-Virus",1
+"63","k141_58204_SRR25030064","species:Flavonifractor plautii","Host-Virus",1
+"64","k141_60590_SRR25030063","species:Lawsonibacter asaccharolyticus","Host-Virus",1
+"65","k141_63883_SRR25030046","species:Bacteroides coprophilus","Host-Virus",1
+"66","k141_6479_SRR25030098","species:Bacteroides coprophilus","Host-Virus",1
+"67","k141_678_SRR25030078","species:[Ruminococcus] gnavus","Host-Virus",1
+"68","k141_70640_SRR25030048","species:Flavonifractor plautii","Host-Virus",1
+"69","k141_73657_SRR25030066","species:[Ruminococcus] gnavus","Host-Virus",1
+"70","k141_88126_SRR25030035","species:[Ruminococcus] gnavus","Host-Virus",1

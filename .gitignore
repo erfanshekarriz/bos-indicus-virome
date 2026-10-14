@@ -1,0 +1,9 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+data/prevalence_abundance.csv
+data/merged_contig_summary_all.csv
+data/classification_summary_vOTUs_merged.csv
+data/vOTU_table_rpkm.xlsx
+data/vOTU_table_tpm.xlsx
